@@ -1,0 +1,3 @@
+kita hapus converter yg ada di CheckoutHandler, lalu parameter CurrencyConverter  diubah agar meminta jenis mata uang.
+
+NOTE :  ada yg aneh di Main.java, sy ubah totalPriceIDR untuk mengambil totalPriceUSD. awalnya dia ambil totalPriceEUR
