@@ -1,0 +1,1 @@
+kita ubah function getTotalPricce untuk mengkalkulasi total price si cart, dan langsung return hasil kalkulasi di method itu. kita menghapus field totalPrice dan hapus penambahan yg ada di method addItem.

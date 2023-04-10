@@ -1,0 +1,1 @@
+sy bikin method GetName di Interface Operation. method itu return string kalimatny.
