@@ -1,0 +1,5 @@
+dalam class WalletNotification parameter function balanceNotif dikecilkan, karena kebanyakan
+dari parameter terdapat pada class User.
+
+dalam class main, object yang menggunaan function balanceNotif dicocokan parameternya sesuai dengan
+perubahan
