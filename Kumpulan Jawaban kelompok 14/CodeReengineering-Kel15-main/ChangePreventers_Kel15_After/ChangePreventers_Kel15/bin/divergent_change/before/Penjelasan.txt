@@ -1,1 +1,0 @@
-hapus method print pd method rectangle ke class border rectangle dan fullrecttangle printer. agar pengubahan method tersebut lebih mudah dilakukan

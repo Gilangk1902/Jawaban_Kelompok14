@@ -1,1 +1,0 @@
-dalam class rental semua data dihapus dan menggunakan data dalam class Movies

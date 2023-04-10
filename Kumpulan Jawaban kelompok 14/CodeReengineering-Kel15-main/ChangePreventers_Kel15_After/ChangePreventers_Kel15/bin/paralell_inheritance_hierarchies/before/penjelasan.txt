@@ -1,1 +1,0 @@
-menghapus class calculator. lalu meng implemet areainterface pada class rectangle dan triangle. agar relasi antar class lebih simple dan mudah dibaca
