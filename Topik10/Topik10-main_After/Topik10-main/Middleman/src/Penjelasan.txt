@@ -1,0 +1,1 @@
+menambahkan method weaponType pada class Warrior, agar tidak perlu mengakses class Weapon pd attribut warrior untuk memanggil method weaponType
