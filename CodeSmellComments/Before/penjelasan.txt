@@ -1,0 +1,1 @@
+kami menghapus semua comment, lalu mengganti value type menjadi String. agar lebih jelas dalam merepresentasikan typenya.

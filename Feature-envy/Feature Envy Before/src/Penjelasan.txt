@@ -1,0 +1,1 @@
+fitur getfulladdress dipindah ke class contactinfo, karena fitur tersebut lebih fit ke class tersbut dibanding class user.

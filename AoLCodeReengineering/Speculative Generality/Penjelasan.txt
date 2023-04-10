@@ -1,0 +1,1 @@
+tidak menggunakan parameter type lagi. melainkan membuat method khusus untuk setiap operator.
