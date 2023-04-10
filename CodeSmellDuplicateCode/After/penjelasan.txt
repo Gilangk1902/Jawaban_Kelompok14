@@ -1,5 +1,0 @@
-print pada setiap method kalkulasi menyebabkan code smell duplicate code, maka kami extract code tersebut menjadi method baru.
-
-lalu kami memisahkan method" kalkulasi menjadi ke class Calculator, Karena method tersesbut tidak relevan dengan main class.
-
-method kalkulasi me-return int value.

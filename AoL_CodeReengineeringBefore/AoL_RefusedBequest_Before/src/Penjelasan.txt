@@ -1,1 +1,0 @@
-sy pisah method yg gk kepake di Class PersonalTaxCalculator ke CompanyTaxCalculator. sy taro di CompanyTaxCalculator tujuanny untuk for future use sj.
